@@ -1,0 +1,40 @@
+{
+	"OPSTECH_ENTITLEMENT": {
+		"opstechTableAccessVO": {
+			"tradeSummaryTableAccess": 1,
+			"tradeDetailTableAccess": 1
+		},
+		"opstechGraphAccessVO": {
+			"tradeTypeGraphAccess": 1,
+			"rqRatingGraphAccess": 1,
+			"byAgeGraphAccess": 1,
+			"locationGraphAccess": 1
+		},
+		"configEntitlementVO": {
+			"DETAIL": "1",
+			"EMAIL": "1",
+			"COMMENT": "1"
+		},
+		"opstechCommentAccessVO": {
+			"commentAccess": 1
+		},
+		"opstechUserVO": {
+			"lastName": "SIMLOTE",
+			"lUserName": "SIMLOTE, PRAVEEN",
+			"profileId": "OPSTECH_USER",
+			"sCurrentDate": "Monday, January 22, 2018",
+			"soeId": "PS90014",
+			"firstName": "PRAVEEN"
+		},
+		"userPreferenceVO": [
+			{
+				"preferenceValue": "0",
+				"preferenceName": "SUMMARY_TABLE"
+			},
+			{
+				"preferenceValue": "1",
+				"preferenceName": "TRADE_DETAILS_TABLE"
+			}
+		]
+	}
+}

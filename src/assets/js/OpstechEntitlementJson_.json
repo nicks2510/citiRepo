@@ -1,0 +1,26 @@
+{
+	"OPSTECH_ENTITLEMENT": {
+		"opstechTableAccessVO": {
+			"tradeSummaryTableAccess": 1,
+			"tradeDetailTableAccess": 1
+		},
+		"opstechGraphAccessVO": {
+			"tradeTypeGraphAccess": 1,
+			"rqRatingGraphAccess": 1,
+			"byAgeGraphAccess": 1,
+			"locationGraphAccess": 1
+		},
+		"opstechCommentAccessVO": {
+			"commentAccess": 1
+		},
+		"opstechUserVO": {
+			"lastName": "Cushman",
+			"lUserName": "Cushman, Joan",
+			"profileId": "OPSTECH_ADMIN",
+			"sCurrentDate": "Tuesday, December 26, 2017",
+			"soeId": "JC87374",
+			"firstName": "Joan",
+			"userPrefrences" : [{"detailView" : 0, "SummeryView" : 1}]
+		}
+	}
+}

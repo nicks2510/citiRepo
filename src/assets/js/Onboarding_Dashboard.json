@@ -1,0 +1,2675 @@
+{
+	"RESPONSE_CODE": 1,
+	"RESPONSE_MESSAGE": "",
+	"RESPONSE_DATA": [{
+		"REGION": "NAM",
+		"FREQUENCY": [{
+			"NAME": "DAILY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}]
+		}, {
+			"NAME": "WEEKLY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": [
+							{	
+								"ACTIVITY_NAME" : "ACCOUNT_OPENING",
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,
+								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,
+								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",
+								
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}, 
+							{	
+								"ACTIVITY_NAME" : "KYC",								
+								"CT_LAST_PERIOD_AVG_FSLA": "",
+								"CT_CURRENT_PERIOD_AVG_FSLA": "",
+								"CT_PERIOD_OVER_PERIOD_FSLA": "",
+								"CT_YTD_AVG_FSLA": 24,
+								"CT_TARGET_VALUE_FSLA": 2,								
+								"CT_LAST_PERIOD_AVG_LSLA": "",
+								"CT_CURRENT_PERIOD_AVG_LSLA": "",
+								"CT_PERIOD_OVER_PERIOD_LSLA": "",
+								"CT_YTD_AVG_LSLA": 24,
+								"CT_TARGET_VALUE_LSLA": 2,								
+								"VO_YTD": 536412,
+								"VO_CURRENT_PERIOD": 42931,
+								"VO_LAST_PERIOD": 40236,
+								"VO_PERIOD_OVER_PERIOD": "10%",							
+								"CT_RQ__FSLA": "",
+								"CT_RQ__LSLA": "",
+								"VO_RQ": 1
+							}
+							]
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}, {
+			"NAME": "MONTHLY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}, {
+			"NAME": "YEARLY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}]
+	}, {
+		"REGION": "LATAM",
+		"FREQUENCY": [{
+			"NAME": "DAILY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}, {
+			"NAME": "WEEKLY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}, {
+			"NAME": "MONTHLY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}, {
+			"NAME": "YEARLY",
+			"PRODUCTS": [{
+				"PRODUCT": "ALL",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "BANKING",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}, {
+				"PRODUCT": "",
+				"ACCOUNTTYPE": [{
+						"TYPE": "INDIVIDUAL",
+						"DATA": {}
+					},
+					{
+						"TYPE": "ENTITY",
+						"DATA": {}
+					}
+				]
+			}]
+		}]
+	}]
+}

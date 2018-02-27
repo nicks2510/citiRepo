@@ -1,0 +1,68 @@
+{
+	"REGION": [{
+		"NAME": "Nam",
+		"VALUE" : "Nam"
+	}, {
+		"NAME": "Latam",
+		"VALUE" : "Latam"
+	}],
+	"FREQUENCY": [{
+		"NAME": "Daily",
+		"VALUE" : "Daily"
+	}, {
+		"NAME": "Weekly",
+		"VALUE" : "Weekly"
+	}, {
+		"NAME": "Monthly",
+		"VALUE" : "Monthly"
+	}, {
+		"NAME": "Yearly",
+		"VALUE" : "Yearly"
+	}],
+	"PRODUCTS": [{
+		"NAME": "All",
+		"VALUE" : "All"
+	}, {
+		"NAME": "Banking",
+		"VALUE" : "Banking"
+	}, {
+		"NAME": "Cim Managed Investments",
+		"VALUE" : "Cim Managed Investments"
+	},{
+		"NAME": "Pershing Nam Managed Investment",
+		"VALUE" : "Pershing Nam Managed Investment"
+	},{
+		"NAME": "Pershing Latam Managed Investment",
+		"VALUE" : "Pershing Latam Managed Investment"
+	}, {
+		"NAME": "Pershing Apac Managed Investment",
+		"VALUE" : "Pershing Apac Managed Investment"
+	}, {
+		"NAME": "Pershing Emea Managed Investment",
+		"VALUE" : "Pershing Emea Managed Investment"
+	}, {
+		"NAME": "Flexcube Banking Stp And Manual",
+		"VALUE" : "Flexcube Banking Stp And Manual"
+	},{
+		"NAME": "Capital Markets",
+		"VALUE" : "Capital Markets"
+	}, {
+		"NAME": "Investor (Custody)",
+		"VALUE" : "Investor (Custody)"
+	}, {
+		"NAME": "Preferred Custody",
+		"VALUE" : "Preferred Custody"
+	}, {
+		"NAME": "Trust",
+		"VALUE" : "Trust"
+	}],
+	"ACCOUNT_TYPE": [
+		{
+			"NAME": "Individual",
+			"VALUE" : "Individual"
+		}, {
+			"NAME": "Entity",
+			"VALUE" : "Entity"
+		}
+	]
+}
