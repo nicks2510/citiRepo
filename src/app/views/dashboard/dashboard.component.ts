@@ -151,11 +151,8 @@ export class DashboardComponent implements OnInit {
       // this.kycFlag = true;
       // this.webEnrollmentsFlag=true;
       this.acOpeningFlag = true;
-
-
       this.kycFlag = true;
       this.nameScreeningFlag = true;
-
        this.scanningDocsFlag=true;
       this.webEnrollmentsFlag=true;
       this.acMaintFlagcard=true;
